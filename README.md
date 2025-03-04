@@ -1,2 +1,2 @@
 # .github
-Read me for ARTIMIS
+Read me for Artemis
